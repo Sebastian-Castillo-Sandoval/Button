@@ -1,0 +1,32 @@
+.BtnSearch{
+    color: rgb(81, 192, 236);
+    font-size: large;
+    height: 30px;
+    width: 150px;
+    background-color: rgb(214, 212, 212);
+    border-radius: 50px;
+    border: 1px solid skyblue;
+    margin: 50px 10px 10px 10px;
+    padding: 5px 50px;
+}
+.BtnAdd{
+    color: white;
+    font-size: xx-large;
+    height: 40px;
+    width: 40px;
+    background-color: aqua;
+    border-radius: 50%;
+    border: 1px solid aqua;
+    margin: 10px;
+}
+.BtnCreateAccount{
+color: white;
+font-size: large;
+height: 40px;
+width: 200px;
+background-color: rgb(96, 164, 243);
+border: 2px solid rgb(8, 8, 139);
+margin: 10px;
+padding: 5px 30px;
+box-shadow: 5px 5px 2px 1px black;
+}
